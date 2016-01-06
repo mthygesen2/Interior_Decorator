@@ -1,5 +1,16 @@
 .columns {
-  width: 300px;
+  width: 280px;
   float: left;
-  margin: 20px;
+  margin: 10px;
+  text-align: center;
+  align-items: center;
+}
+.c1 {
+  background-color: yellow;
+}
+.c2 {
+  background-color: orange;
+}
+.c3 {
+  background-color: pink;
 }
